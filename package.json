@@ -1,0 +1,11 @@
+{
+  "name": "recursive-transform",
+  "version": "1.0.0",
+  "description": "Transform recursive data structure which contain loops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "author": "vincent.bailly@microsoft.com",
+  "license": "MIT"
+}
